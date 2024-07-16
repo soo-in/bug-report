@@ -1,5 +1,5 @@
 blank_issues_enabled: true
-contact_links: https://www.google.com
-  - name: NAME
-    url: LINK
-    about: DESCRIPTION
+contact_links:
+  - name: Ask Google
+    url:  https://www.google.com
+    about: Google may know your answer.
