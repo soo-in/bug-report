@@ -1,0 +1,5 @@
+blank_issues_enabled: # false or true
+contact_links:
+  - name: NAME
+    url: LINK
+    about: DESCRIPTION
