@@ -1,4 +1,4 @@
-blank_issues_enabled: # false or true
+blank_issues_enabled: true
 contact_links:
   - name: NAME
     url: LINK
